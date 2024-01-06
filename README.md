@@ -1,3 +1,4 @@
+# 使用教程
 以macos为例，安装basictext
 
 brew install basictex --cask
